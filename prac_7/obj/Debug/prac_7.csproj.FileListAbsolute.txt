@@ -1,0 +1,7 @@
+C:\Users\aidyn\source\repos\prac_7\prac_7\obj\Debug\prac_7.csproj.AssemblyReference.cache
+C:\Users\aidyn\source\repos\prac_7\prac_7\obj\Debug\prac_7.csproj.CoreCompileInputs.cache
+C:\Users\aidyn\source\repos\prac_7\prac_7\bin\Debug\prac_7.exe.config
+C:\Users\aidyn\source\repos\prac_7\prac_7\bin\Debug\prac_7.exe
+C:\Users\aidyn\source\repos\prac_7\prac_7\bin\Debug\prac_7.pdb
+C:\Users\aidyn\source\repos\prac_7\prac_7\obj\Debug\prac_7.exe
+C:\Users\aidyn\source\repos\prac_7\prac_7\obj\Debug\prac_7.pdb
